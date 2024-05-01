@@ -19,7 +19,7 @@ Step-by-step instructions for how to set up and run your project locally:
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
-## NOTE:
+## NOTE
 There are 2 branches... 'master'-branch has only the README.md file.
 'feature/add-login-functionality'-branch has all the coding portions of the CafeZestro Management System.
 

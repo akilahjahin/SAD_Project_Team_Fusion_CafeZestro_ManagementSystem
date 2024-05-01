@@ -4,14 +4,14 @@
 Team Fusion's &nbsp;**CaféZestro Management System**&nbsp; is a web-based application designed to streamline operations and enhance staff experience at &nbsp;**CaféZestro**&nbsp;.It provides tools for managing orders, inventory, staff, and staff interactions, ultimately improving efficiency and satisfaction.
 
 ## Features
-- Order management: &nbsp;Create, fulfill customer orders with printouts of Billing.
-- Inventory management: &nbsp;Inventory update, delete, add, edit features of products and categories.
-- User management: &nbsp;Manage user login credentials, authentication and information.
+- **Order management:** &nbsp;&nbsp;&nbsp;Create, fulfill customer orders with printouts of Billing.
+- **Inventory management:** &nbsp;&nbsp;&nbsp;Inventory update, delete, add, edit features of products and categories.
+- **User management:** &nbsp;&nbsp;&nbsp;Manage user login credentials, authentication and information.
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js (framework)
-- Additional Tools: Git, GitHub, VS Code, Postman
+- **Frontend:** &nbsp;&nbsp;&nbsp;HTML, CSS, JavaScript
+- **Backend:** &nbsp;&nbsp;&nbsp;Node.js, Express.js (framework)
+- **Additional Tools:** &nbsp;&nbsp;&nbsp;Git, GitHub, VS Code, Postman
 
 ## Installation
 Step-by-step instructions for how to set up and run your project locally:

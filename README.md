@@ -1,4 +1,4 @@
-# SAD_Team_Fusion_CafeZestro_ManagementSystem
+# SAD_Team_Fusion_CafeZestro_Management_System
 ## Project Overview
 Team Fusion's CaféZestro Management System is a web-based application designed to streamline operations and enhance staff experience at CaféZestro. It provides tools for managing orders, inventory, staff, and staff interactions, ultimately improving efficiency and satisfaction.
 

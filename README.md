@@ -1,5 +1,5 @@
 # SAD_Team_Fusion_CaféZestro_Management_System
-## See the 'NOTE' &nbsp;&&nbsp; 'INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS:' <br>&nbsp;scrolling downward at the end of the README.md file
+## See the 'NOTE' &nbsp&nbsp&nbsp&nbsp;&&nbsp&nbsp&nbsp&nbsp; 'INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS'<br>;scrolling downward at the end of the README.md file
 ## Project Overview
 Team Fusion's **CaféZestro Management System** is a web-based application designed to streamline operations and enhance staff experience at **CaféZestro**. It provides tools for managing orders, inventory, staff, and staff interactions, ultimately improving efficiency and satisfaction.
 
@@ -21,9 +21,9 @@ Step-by-step instructions for how to set up and run your project locally:
 4. Start the development server: `npm start`
 
 ## NOTE
-**There are 2 branches :  'master'-branch   (has only the README.md file)   &   'feature/add-login-functionality'-branch   (has all the coding portions of the CaféZestro Management System).**
+**There are 2 branches :  <br>'master'-branch  &nbsp&nbsp&nbsp (has only the README.md file)   &nbsp&   <br>'feature/add-login-functionality'-branch  &nbsp&nbsp&nbsp (has all the coding portions of the CaféZestro Management System).**
 
-## INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS:
+## INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS
 **If codes and contributions need to be seen, then from the 2 branches, from the dropdown, select 'feature/add-login-functionality'-branch** and **click on it**; This will redirect to that branch's page and there, below the 'Contribute' button, 'n commits' can be seen where,
 n = total number of commits made    ;
 Clicking on that 'n commits', we can go to the page where commits have been contributed by 3 collaborators with following usernames:

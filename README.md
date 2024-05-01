@@ -1,5 +1,5 @@
 # SAD_Team_Fusion_CaféZestro_Management_System
-**See the '  NOTE  ' & '  INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS  '<br>scrolling downward at the end of the README.md file**
+**See the   '  NOTE  '   &   '  Instructions for observing codes and contributions  '<br>scrolling downward at the end of the README.md file**
 ## Project Overview
 Team Fusion's **CaféZestro Management System** is a web-based application designed to streamline operations and enhance staff experience at **CaféZestro**. It provides tools for managing orders, inventory, staff, and staff interactions, ultimately improving efficiency and satisfaction.
 
@@ -23,10 +23,10 @@ Step-by-step instructions for how to set up and run your project locally:
 ## NOTE
 **There are 2 branches :  <br>' master '-branch   ( has only the README.md file )   &   <br>' feature/add-login-functionality '-branch  &nbsp&nbsp&nbsp ( has all the coding portions of the CaféZestro Management System ).**
 
-## INSTRUCTIONS FOR OBSERVING CODES & CONTRIBUTIONS
+## Instructions for observing codes and contributions
 **If codes and contributions need to be seen, then from the 2 branches, from the dropdown, select 'feature/add-login-functionality'-branch** and **click on it**; This will redirect to that branch's page and there, below the 'Contribute' button, 'n commits' can be seen where, <br>
-n = total number of commits made    ; <br>
-Clicking on that 'n commits', we can go to the page where commits have been contributed by 3 collaborators with following usernames:
+**n = total number of commits made**    ; <br>
+Clicking on that 'n commits', we can go to the page where **commits have been contributed by 3 collaborators with following usernames:**
 
 **There are 3 contributors:**
 - **akilahjahin** --- Akilah Jahin Bushra **(ID : 2100 41 252)**

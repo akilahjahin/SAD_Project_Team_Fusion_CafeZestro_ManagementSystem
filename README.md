@@ -24,7 +24,7 @@ Step-by-step instructions for how to set up and run your project locally:
 **There are 2 branches :  <br>' master '&nbsp;-&nbsp;&nbsp;branch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( has only the README.md file )  &nbsp;&nbsp; &   <br>' feature/add-login-functionality '&nbsp;-&nbsp;&nbsp;branch &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( has all the coding portions of the CaféZestro Management System ).**
 
 ## Instructions for observing codes and contributions
-**If codes and contributions need to be seen :<br>From top of this page, see the dropdown option on the left side of '2 Branches'&nbsp;;&nbsp;&nbsp; then from the dropdown, &nbsp;&nbsp; select 'feature/add-login-functionality'&nbsp;-&nbsp;&nbsp;branch** and **click on it**; <br>This will redirect to that branch's page and there, **below the '&nbsp;&nbsp;Contribute&nbsp;&nbsp;' button**,&nbsp;&nbsp;**'&nbsp;n commits&nbsp;'** can be seen where, <br>
+**If codes and contributions need to be seen :<br>From top of this page, see the dropdown option on the left side of '2 Branches'&nbsp;;&nbsp;&nbsp; then from the dropdown, &nbsp;&nbsp; select 'feature/add-login-functionality'&nbsp;-&nbsp;&nbsp;branch** and **click on it**; <br>This will redirect to that branch's page and there, **below the '&nbsp;&nbsp;Contribute&nbsp;&nbsp;'** button,&nbsp;&nbsp;&nbsp;**'n commits'** can be seen where, <br>
 **n = total number of commits made**    ; <br>
 Clicking on that 'n commits', &nbsp;&nbsp;we can go to the page where **commits have been contributed by 3 collaborators with following usernames:**
 

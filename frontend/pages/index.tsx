@@ -10,7 +10,7 @@ export default function Home() {
       className={`min-h-screen ${inter.className}`}
     >
       <Navbar/>
-      <div className="bg-[url(/assets/img/food1.jpg)] min-h-no-nav bg-center bg-cover" />
+      <div className="bg-[url(/assets/img/aki3.jpg)] min-h-no-nav bg-center bg-cover" />
     </main>
   );
 }

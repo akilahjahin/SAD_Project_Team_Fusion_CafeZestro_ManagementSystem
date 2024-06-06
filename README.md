@@ -23,9 +23,9 @@ Team Fusion's &nbsp;**CaféZestro Management System**&nbsp; is a web-based appli
 1. Install ```node.js, next.js, react@bootstrap``` VSCode
 2. Install necessary extensions for **react.js, next.js, node.js, tailwind.css**
 3. **Cloning repository**
-Open Folder (new)
-Open the folder in cmd/ git bash
-Clone command:  **git clone <repo -url>**
+    Open Folder (new)
+    Open the folder in cmd/ git bash
+    Clone command:  **git clone <repo -url>**
 <br>
 It will be better if pulled from 1 brnach(master) only: for this, you should write: <br>
 <br>

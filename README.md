@@ -34,13 +34,11 @@ Open the files in a workspace in VS Code <br>
 Follow the terminal instructions of ‘Ctrl+link’ afterwords**
 5. **In the backend terminal, write ‘npm i’ only once and never again, this creates the node-modules for the backend. Then write: ‘npm start’ , always whenever you want to turn on the system anew.**
 
-#**There are 3 contributors:**
+# **There are 3 contributors:**
 - **akilahjahin** --- Akilah Jahin Bushra **(ID : 2100 41 &nbsp;252)**
 - **shuQrah** --- Nambejja Shukrah Hadijah **(ID : 2100 41 &nbsp;250)**
 - **NaimamohAli** --- Nima Mohamed Ali **(ID : 2100 41 &nbsp;256)**
 
-
-
-
-# If 'npm i' not run once (and only once after each new user clones the repository) as per above instructions, node-modules won't be created.
-#  If the .env file isn't there, built one as per the given image
+<br> <br>
+**If 'npm i' not run once (and only once after each new user clones the repository) as per above instructions, node-modules won't be created.**
+**If the .env file isn't there, built one as per the given image**

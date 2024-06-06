@@ -12,7 +12,7 @@
 5. ```npm start```
 
 # NOTE:
-1. Install '''node.js next.js react@bootstrap,''' VSCode
+1. Install ```node.js, next.js, react@bootstrap``` VSCode
 2. Install necessary extensions for **react.js, next.js, node.js, tailwind.css**
 3. **Cloning repository**
 Open Folder (new)

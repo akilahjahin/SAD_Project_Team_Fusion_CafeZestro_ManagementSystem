@@ -23,18 +23,14 @@ Team Fusion's &nbsp;**CaféZestro Management System**&nbsp; is a web-based appli
 1. Install ```node.js, next.js, react@bootstrap``` VSCode
 2. Install necessary extensions for **react.js, next.js, node.js, tailwind.css**
 3. **Cloning repository**
-    Open Folder (new)
-    Open the folder in cmd/ git bash
-    Clone command:  **git clone <repo -url>**
-<br>
-It will be better if pulled from 1 brnach(master) only: for this, you should write: <br>
-<br>
-Navigate to the project directory where you want to clone the repository.
-<br>
-Then, open that directory in git-bash/ cmd/ terminals
-<br>
-Write the git-clone commands: <br>
-```git clone --branch master https://github.com/akilahjahin/SAD_Project_Team_Fusion_CafeZestro_ManagementSystem```
+    1. Open Folder (new)
+    2. Open the folder in cmd/ git bash
+    3. Clone command:  **git clone <repo -url>**    <br>
+    4. It will be better if pulled from 1 brnach(master) only: for this, you should write: <br><br>
+        1. Navigate to the project directory where you want to clone the repository. <br>
+        2. Then, open that directory in git-bash/ cmd/ terminals. <br>
+        3. Write the git-clone commands: <br>
+            **git clone --branch master https://github.com/akilahjahin/SAD_Project_Team_Fusion_CafeZestro_ManagementSystem**
 <br> <br>
 **If a problem arises, just pull contents from the master branch since the feature/add-login functionality branch has the backend codes only, but incomplete, whereas the master branch contains all files.
 Then, the repository cloned to the specific folder.** <br>

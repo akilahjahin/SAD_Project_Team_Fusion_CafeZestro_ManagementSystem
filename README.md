@@ -41,4 +41,22 @@ Follow the terminal instructions of ‘Ctrl+link’ afterwords**
 
 <br> <br>
 **If 'npm i' not run once (and only once after each new user clones the repository) as per above instructions, node-modules won't be created.**
-**If the .env file isn't there, built one as per the given image**
+**If the .env file isn't there, built one as per the given example**
+# .env structure
+```
+PORT = 8081
+
+DB_PORT = 3306
+DB_HOST = localhost
+DB_USERNAME = root
+DB_PASSWORD = 'xxx' // Insert your DB Pass here
+DB_NAME = cafenodejs
+// We needed to create database with this DB_NAME
+
+ACCESS_TOKEN = 52d40300771de870943b8e6ea37a4296cf17d127401eed8755fb79f2133895fedff33f1f7252750ebe357e79c7ca57f3ab9f62502691e840a80a738b95876fed
+
+EMAIL = xxx@iut-dhaka.edu // Insert and organizational-email in place of 'xxx'
+PASSWORD = 'xxx' // Insert your PASSWORD in place of 'xxx'
+
+USER = user
+```

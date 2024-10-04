@@ -26,7 +26,7 @@ Team Fusion's &nbsp;**CaféZestro Management System**&nbsp; is a web-based appli
     1. Open Folder (new)
     2. Open the folder in cmd/ git bash
     3. Clone command:  **git clone <repo -url>**    <br>
-    4. It will be better if pulled from 1 brnach(master) only: for this, you should write: <br><br>
+    4. It will be better if pulled from 1 branch(master) only: for this, you should write: <br><br>
         1. Navigate to the project directory where you want to clone the repository. <br>
         2. Then, open that directory in git-bash/ cmd/ terminals. <br>
         3. Write the git-clone commands: <br>

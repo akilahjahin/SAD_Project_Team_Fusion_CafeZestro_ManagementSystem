@@ -59,7 +59,7 @@ DB_PASSWORD = 'xxx' // Insert your DB Pass here
 DB_NAME = cafenodejs
 // We needed to create database with this DB_NAME
 
-ACCESS_TOKEN = 52d40300771de870943b8e6ea37a4296cf17d127401eed8755fb79f2133895fedff33f1f7252750ebe357e79c7ca57f3ab9f62502691e840a80a738b95876fed
+ACCESS_TOKEN = [128charpassword_APIgenerated]
 
 EMAIL = xxx@iut-dhaka.edu // Insert and organizational-email in place of 'xxx'
 PASSWORD = 'xxx' // Insert your PASSWORD in place of 'xxx'
